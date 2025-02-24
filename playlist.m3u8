@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Окко Футбол HD
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/20138/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ HD
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/212/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/220/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/222/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/211/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/206/index.m3u8
+#EXTINF:0 tvg-rec="0",LFC TV UK
+#EXTGRP:Футбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/31596/index.m3u8
+
+
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:Спорт
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 HD
+#EXTGRP:Спорт
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/234/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 3 HD
+#EXTGRP:Спорт
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/31445/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:Спорт
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/207/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:Спорт
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/225/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport HD
+#EXTGRP:Спорт
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/2007/index.m3u8
+
+#EXTINF:0 tvg-rec="7",KHL HD
+#EXTGRP:Хоккей
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/215/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD
+#EXTGRP:Хоккей
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/19396/index.m3u8
+
+
+#EXTINF:0 tvg-rec="7",Удар FHD
+#EXTGRP:Единоборства
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/2000/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
+#EXTGRP:Баскетбол
+http://kiwpdthj.siauliairsavlt.pw/iptv/QQLSDQ6P6Y83HBVWECS84FTP/20004/index.m3u8
